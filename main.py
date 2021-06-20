@@ -3,6 +3,8 @@
 def house_build(x, y, z):
     return ()
 
+x = input("What'your name?")
+print(x)
 
 print('House has been built')
 
